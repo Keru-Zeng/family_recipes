@@ -2,6 +2,7 @@
 
 Set of recipes as given by my grandma
 
-- Pizzas (TODO) 
+- Pizzas (TODO)
+    -- [Hawaiians](Pizzas/Hawaiians.md) 
 - Sauces (TODO)
 - Spreds (TODO)
